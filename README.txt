@@ -2,8 +2,10 @@ This is a repository that contains different CSS Framework Sandboxes that can la
 
 The Bulma CSS Framework was built from this video by Brad From Taversy Media.
 https://www.youtube.com/watch?v=IiPQYQT2-wg
+http://bulma.io/
 
 The Materialize CSS Framework was built from this video by Brad From Taversy Media.
 https://www.youtube.com/watch?v=nqT8c5OFjEQ
+http://materializecss.com/
 
 

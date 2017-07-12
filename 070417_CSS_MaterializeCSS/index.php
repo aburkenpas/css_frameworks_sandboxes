@@ -464,7 +464,7 @@
 
         <div class="row">
           <div class="col s7 push-s5"><div class="card-panel grey">Col 7</div></div>
-          <div class="col s5 pull-s7"><div class="card-panel grey">Col 5</div></div>
+          <div class="col s5 pull-s"><div class="card-panel grey">Col 5</div></div>
         </div>
 
       </div><!-- conainer end -->
